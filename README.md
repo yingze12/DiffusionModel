@@ -1,0 +1,13 @@
+视频课程:https://www.bilibili.com/video/BV1Mm4y117Ci
+<br><br>
+运行环境:
+<br>
+python==3.9
+<br>
+pytorch==1.12.1+cu113
+<br>
+transformers==4.26.1
+<br>
+datasets==2.9.0
+<br>
+diffusers==0.12.1
